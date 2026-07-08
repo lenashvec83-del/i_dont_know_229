@@ -3,3 +3,7 @@ div{
     background-color: aquamarine;
     border-radius: 30px;
 }
+img{
+    width: 80%;
+    margin:0 auto;
+}
