@@ -2,8 +2,10 @@ div{
     width:50%;
     background-color: aquamarine;
     border-radius: 30px;
+    margin:0 auto;
 }
 img{
     width: 80%;
     margin:0 auto;
+    display:block;
 }
