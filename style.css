@@ -2,11 +2,12 @@ div{
     width:50%;
     background-color: aquamarine;
     border-radius: 30px;
-    margin:0 auto;
+    margin:0px auto;
+    padding:30px;
 }
 img{
     width: 80%;
-    margin:0 auto;
+    margin:0px auto;
     display:block;
     border-radius: 30px;
 }
